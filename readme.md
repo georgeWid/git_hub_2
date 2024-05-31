@@ -1,3 +1,2 @@
-# Hello!<br>
-Hello GitHub2!<br>
-Aenderung 2
+# Branch v1.0!<br>
+In diesem Branch wurden die Texte angepasst!
