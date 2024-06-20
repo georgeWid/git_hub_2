@@ -1,9 +1,9 @@
 # Hello!<br>
 Hello GitHub2!<br>
 Aenderung 2  
-[click on this link1](#Aenderung-4)  
+[goto Aenderung 4](#Aenderung-4)  
 Aenderung 3  
-[click on this link2](#my-multi-word-header)  
+[goto My Multi Word Header](#my-multi-word-header)  
 aaa  
 bbb  
 ccc  
