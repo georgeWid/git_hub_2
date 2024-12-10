@@ -2,9 +2,9 @@
 Hello GitHub2!<br>
 Punkt 1  
 [goto Thema 1](#thema-1)  
-Punkt 2  
+Punkt 1.2  
 [goto Thema 2](#thema-2)  
-Punkt 3  
+Punkt 2  
 [goto Thema 3](#thema-3)  
 
 ## Thema 1
