@@ -1,19 +1,20 @@
 # Hello!<br>
 Hello GitHub2!<br>
-Aenderung 1
-[goto Aenderung 1](#Aenderung-1)
-Aenderung 2
-[goto My Multi Word Header](#my-multi-word-header)
-Aenderung 3
-[goto Multis](#multis)
-## Aenderung 1
+Punkt 1  
+[goto Thema 1](#thema-1)  
+Punkt 2  
+[goto Thema 2](#thema-2)  
+Punkt 3  
+[goto Thema 3](#thema-3)  
+
+## Thema 1
 aaa
 
-### My Multi Word Header
+### Thema 2
 bbb
 ccc
 
-### Multis
+### Thema 3
 ddd
 eee
 fff
